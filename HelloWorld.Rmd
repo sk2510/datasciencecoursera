@@ -1,0 +1,9 @@
+---
+title: "HelloWorld"
+author: "Snehal Kokare"
+date: "17/04/2021"
+output:
+  word_document: default
+  html_document: default
+---
+## This is a markdown file
